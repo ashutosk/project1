@@ -1,8 +1,8 @@
 # project1
 Hello world
 
-WELCOME TO GITHUB 
+Welcome to my github repository
 
-welcome again to github
+Have a great day ! 
 
-ASHUTOSH KUMAR
+******Ashutosh Kumar******* 
